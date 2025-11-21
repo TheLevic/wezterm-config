@@ -1,0 +1,1 @@
+/Users/thelevic/.wezterm.lua
